@@ -5,9 +5,8 @@
 The **Web3.0 Voting System** is a team assignment designed for the "Blockchain Technologies and Applications" course, offered in the 8th semester of the 2023-2024 academic year at the University of Piraeus, Department of Informatics. This decentralized application (DApp) leverages blockchain technology to create a transparent, secure, and immutable voting process. Built using Solidity and deployed via the Remix IDE on the Ethereum blockchain, the system allows users to create polls, cast votes, and view results while ensuring that all votes are tamper-proof and each user can vote only once per poll.
 
 ## Course Information
-
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Blockchain Technologies and Applications (2024)
 - **Semester:** 8th
 
